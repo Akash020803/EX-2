@@ -1,6 +1,6 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-# DATE:
+# DATE: 13-03-2023
 
 # AIM :
 ## To write a python program to perform sliding window protocol
@@ -17,8 +17,8 @@
 
 # CLIENT PROGRAM :
 ```PYTHON 3 
-## Developed : Kavinraja D
-## Reg no : 212222240047
+## Developed : Akash A
+## Reg no : 212221230003
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
