@@ -19,9 +19,9 @@ To write a python program to perform stop and wait protocol
 
 ### CLIENT :
 
-Developed by : A.ARUVI
+Developed by : Akash A
 
-Register Number : 212222230014
+Register Number : 212221230003
 ```
 import socket
 s=socket.socket()
@@ -42,9 +42,9 @@ while True:
 
 ### SERVER :
 
- Developed by :A.ARUVI
+ Developed by :Akash A
 
-Register Number : 212222230014
+Register Number : 212221230003
 ```
 import socket
 s=socket.socket()
